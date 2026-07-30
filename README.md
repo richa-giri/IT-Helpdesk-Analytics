@@ -81,5 +81,5 @@ Business Insights
 
 ## Author
 
-Your Name
+Richa Giri
 
