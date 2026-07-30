@@ -75,7 +75,7 @@ Business Insights
 
 ## Folder Structure
 
-(data, notebooks, database, screenshots)
+(data, notebooks, screenshots)
 
 ---
 
